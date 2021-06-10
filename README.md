@@ -5,11 +5,12 @@
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
 <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
 <img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
-<img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png"width="40" height="40" alt='firebase'/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
+<img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40" alt='redux'/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40" alt='firebase'/>
 </p>
 <p align="center">
  <img src="https://www.codewars.com/users/SergKcode/badges/large" alt='codewars'/>
