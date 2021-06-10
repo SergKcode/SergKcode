@@ -9,6 +9,7 @@
 <img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
+<img src="https://img.icons8.com/fluent/48/000000/mongodb.png" width="40" height="40" alt='github'/>
 </p>
 <p align="center">
  <img src="https://www.codewars.com/users/SergKcode/badges/large" alt='codewars'/>
