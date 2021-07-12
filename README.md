@@ -25,7 +25,7 @@
  
    - [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): A full stack application that calculates for people who is going to travel, the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/).  The frontend was coded using React and styled-components and the backend with NodeJS and Express. It includes a Mysql database deployed in Heroku. [Click here to see the project](https://sheltered-sierra-28595.herokuapp.com/)
  
-  - [Hackathon-Fiverr](https://github.com/SergKcode/hackathon-fiverr): An full stack application make it in 48h for Fiverr. Fiver Match is a app  made with React, MongoDB and Express.js that takes into account all your preferences in order to display who freelancers suits better with your preferences so you will be able to add in to your favorites and message them to collaborate together. the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/). 
+  - [Hackathon-Fiverr](https://github.com/SergKcode/hackathon-fiverr): An full stack application make it in 48h for Fiverr. Fiver Match is a app  made with React, MongoDB and Express.js that takes into account all your preferences in order to display who freelancers suits better with your preferences so you will be able to add in to your favorites and message them to collaborate together. 
  
  
 
