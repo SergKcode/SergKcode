@@ -20,7 +20,10 @@
 - 👨‍💻 Some of my projects:
   - [Auriga web app](https://github.com/Vir89/Auriga): Website built by a team of 4 as final project in a web developer bootcamp for a client located in Spain. It's built with React, [styled-components](https://styled-components.com/) and atomic design. The code was coded using NodeJS and Expressand, and MongoDB as a database.
  
-   - [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): An full stack application that calculates for people who is going to travel, the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/).  The frontend was coded using React and styled-components and the backend with NodeJS and Express. It includes a Mysql database deployed in Heroku. [See the project here](https://sheltered-sierra-28595.herokuapp.com/)
+ - [JournalApp](https://github.com/SergKcode/journalapp): A application with a login that allows you to add a daily note with text and uploading images. The app has been made with React, Redux and SASS. The database and the authentication is managed with firebase and google. The deployment has been made with Netlify.[See the project here](https://elegant-curran-3f085b.netlify.app/)
+ 
+ 
+   - [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): A full stack application that calculates for people who is going to travel, the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/).  The frontend was coded using React and styled-components and the backend with NodeJS and Express. It includes a Mysql database deployed in Heroku. [See the project here](https://sheltered-sierra-28595.herokuapp.com/)
  
   - [Hackathon-Fiverr](https://github.com/SergKcode/hackathon-fiverr): An full stack application make it in 48h for Fiverr. Fiver Match is a app  made with React, MongoDB and Express.js that takes into account all your preferences in order to display who freelancers suits better with your preferences so you will be able to add in to your favorites and message them to collaborate together. the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/). 
  
