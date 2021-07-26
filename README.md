@@ -12,8 +12,8 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40" alt='redux'/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40" alt='firebase'/>
-<img src="https://img.icons8.com/color/48/000000/gatsby.png" width="40" height="40" alt='gatsby'/>
-<img src="https://img.icons8.com/color/48/000000/next.png" width="40" height="40" alt='next'/>
+<img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" width="40" height="40" alt='gatsby'/>
+
 </p>
 <p align="center">
  <img src="https://www.codewars.com/users/SergKcode/badges/large" alt='codewars'/>
