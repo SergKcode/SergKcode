@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋, I'm Sergio</h1>
-<h3 align="center">A passionate Web Developer, history teacher, salesman and lifelong learner</h3>
+<h3 align="center">A passionate Web Developer, history teacher, and lifelong learner</h3>
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
