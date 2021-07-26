@@ -24,7 +24,7 @@
   - [JournalApp](https://github.com/SergKcode/journalapp): An application with a login that allows you to add a daily note with text and uploading images. The app has been made with React, Redux and SASS. The database and the authentication is managed with firebase and google. The deployment has been made with Netlify. [Click here to see the project](https://elegant-curran-3f085b.netlify.app/)
  
  
- - [Hotel California](https://github.com/SergKcode/gatsby-grapql-hotelapp): An application created with Gatsby. The api calls to DatoCMS are doing with GraphQL.  The deployment has been made with Netlify. [Click here to see the project](https://eager-blackwell-8353f1.netlify.app/)
+  - [Hotel California](https://github.com/SergKcode/gatsby-grapql-hotelapp): An application created with Gatsby. The api calls to DatoCMS are doing with GraphQL.  The deployment has been made with Netlify. [Click here to see the project](https://eager-blackwell-8353f1.netlify.app/)
  
  
    - [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): A full stack application that calculates for people who is going to travel, the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/).  The frontend was coded using React and styled-components and the backend with NodeJS and Express. It includes a Mysql database deployed in Heroku. [Click here to see the project](https://sheltered-sierra-28595.herokuapp.com/)
