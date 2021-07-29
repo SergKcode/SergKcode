@@ -21,7 +21,7 @@
 <p align="left">
  
 - 👨‍💻 Some of my projects:
-  - [Auriga web app](https://github.com/Vir89/Auriga): Website built by a team of 4 as final project in a web developer bootcamp for a client located in Spain. It's built with React, [styled-components](https://styled-components.com/) and atomic design. The code was coded using NodeJS and Expressand, and MongoDB as a database.
+  - [Auriga web app](https://github.com/Vir89/Auriga): Website built in two months by a team of 4, using agile methologies, as final project in a web developer bootcamp for a client located in Spain. It's built with React, [styled-components](https://styled-components.com/) and atomic design. The code was coded using NodeJS and Expressand, and MongoDB as a database. It was developed using the mobile first pattern. [Click here to see the project](https://auriga-app.herokuapp.com/login)
  
   - [JournalApp](https://github.com/SergKcode/journalapp): An application with a login that allows you to add a daily note with text and uploading images. The app has been made with React, Redux and SASS. The database and the authentication is managed with firebase and google. The deployment has been made with Netlify. [Click here to see the project](https://elegant-curran-3f085b.netlify.app/)
  
