@@ -29,7 +29,7 @@
  
  
   - [Hotel California](https://github.com/SergKcode/gatsby-grapql-hotelapp): An application created with Gatsby. The api calls to DatoCMS are doing with GraphQL.  The deployment has been made with Netlify. [Click here to see the project](https://eager-blackwell-8353f1.netlify.app/)
- https://gracious-pare-16e8df.netlify.app/
+
  
    - [TravelBudget](https://github.com/Andreas-Kalicani/travelbudget2.0): A full stack application that calculates for people who is going to travel, the currency exchange from the country of origin to the country of destination using [ExchangeRate-API](https://www.exchangerate-api.com/).  The frontend was coded using React and styled-components and the backend with NodeJS and Express. It includes a Mysql database deployed in Heroku. [Click here to see the project](https://sheltered-sierra-28595.herokuapp.com/)
  
